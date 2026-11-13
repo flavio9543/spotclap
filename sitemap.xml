@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://spotclap.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://spotclap.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotclap.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotclap.com/"/>
+  </url>
+  <url>
+    <loc>https://spotclap.com/en/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://spotclap.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotclap.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://spotclap.com/"/>
+  </url>
+  <url>
+    <loc>https://spotclap.com/mentions-legales.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://spotclap.com/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotclap.com/en/legal-notice.html"/>
+  </url>
+  <url>
+    <loc>https://spotclap.com/en/legal-notice.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://spotclap.com/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotclap.com/en/legal-notice.html"/>
+  </url>
+  <url>
+    <loc>https://spotclap.com/confidentialite.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://spotclap.com/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotclap.com/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://spotclap.com/en/privacy.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://spotclap.com/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://spotclap.com/en/privacy.html"/>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+# Spotclap Studio
+
+> Spotclap Studio creates commercials and short films for small businesses, shop owners and independents. The idea, script, art direction, edit and sound remain human. AI helps produce images; it does not replace intention.
+
+Spotclap Studio is an activity of Flavio Gouders (MDG Chauffage), a sole trader (indépendant personne physique) in Nandrin, Belgium. VAT / company number: BE 0501 897 497. Public site: https://spotclap.com/ (French is the primary language; English is at https://spotclap.com/en/). Contact: mdg.systeme@gmail.com. No telephone number is published.
+
+## Offer
+
+- Pilot offer “premier film” / “first film”: 1 500 € HT (EUR 1,500 excluding VAT). Scope: one 15–20 second commercial, a single 9:16 (1080p) format, in French, with subtitles, two revision rounds within the approved direction, a draft caption, and organic digital usage rights in Belgium for 12 months. This is a defined scope, not an advertised discount or a struck-through price.
+- Other packages (short commercial, brand short film, social pack) and options: on quotation only (“sur devis”). Broader price ranges have not been validated by Finance and are not published.
+- An email is not an order and does not lock in a fee or a deadline.
+- No invented clients, testimonials, audience figures or promised results (views, sales, appointments or rankings).
+
+## Pages
+
+- [Accueil (FR)](https://spotclap.com/): services, pilot offer, portfolio, process, contact
+- [Home (EN)](https://spotclap.com/en/)
+- [Mentions légales](https://spotclap.com/mentions-legales.html)
+- [Legal notice](https://spotclap.com/en/legal-notice.html)
+- [Confidentialité](https://spotclap.com/confidentialite.html)
+- [Privacy](https://spotclap.com/en/privacy.html)
+
+## Portfolio
+
+The public portfolio currently shows one finished piece: a 22-second AI-made launch film for GlowKissed, our own brand (not an outside-client campaign). Illustrative AI-generated images are credited as such. Other films will be added only when they exist and are cleared.
+
+## Optional
+
+- [sitemap.xml](https://spotclap.com/sitemap.xml)
