@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" role="img">
+  <title>Spotclap Studio avatar</title>
+  <defs>
+    <clipPath id="av"><circle cx="32" cy="32" r="32"/></clipPath>
+  </defs>
+  <g clip-path="url(#av)">
+    <rect width="64" height="64" fill="#16171C"/>
+        <rect x="2" y="2" width="60" height="60" rx="16" fill="#16171C"/>
+    <path d="M16 40 H48" stroke="#B8894A" stroke-width="3.2" stroke-linecap="round"/>
+    <path d="M16 40 L46 22" stroke="#B8894A" stroke-width="3.2" stroke-linecap="round"/>
+    <circle cx="16" cy="40" r="2.2" fill="#B8894A"/>
+    <circle cx="46" cy="22" r="3.15" fill="#F3F0E8"/>
+  </g>
+
+</svg>

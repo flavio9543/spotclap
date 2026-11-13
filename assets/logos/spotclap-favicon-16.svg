@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="none" role="img">
+  <title>Spotclap Studio favicon 16</title>
+    <rect x="0.5" y="0.5" width="15" height="15" rx="3.8" fill="#16171C"/>
+    <path d="M3.5 10.1 H12.4" stroke="#B8894A" stroke-width="1.7" stroke-linecap="round"/>
+    <path d="M3.5 10.1 L11.7 5.4" stroke="#B8894A" stroke-width="1.7" stroke-linecap="round"/>
+    <circle cx="3.5" cy="10.1" r="1.05" fill="#B8894A"/>
+    <circle cx="11.7" cy="5.4" r="1.4" fill="#F3F0E8"/>
+</svg>
