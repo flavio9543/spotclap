@@ -1,0 +1,132 @@
+[
+  {
+    "path": "apple-touch-icon.png",
+    "bytes": 3420,
+    "parts": [
+      "apple-touch-icon.png.b64"
+    ]
+  },
+  {
+    "path": "favicon-16x16.png",
+    "bytes": 468,
+    "parts": [
+      "favicon-16x16.png.b64"
+    ]
+  },
+  {
+    "path": "favicon-32x32.png",
+    "bytes": 698,
+    "parts": [
+      "favicon-32x32.png.b64"
+    ]
+  },
+  {
+    "path": "assets/logos/spotclap-favicon-16.png",
+    "bytes": 468,
+    "parts": [
+      "assets/logos/spotclap-favicon-16.png.b64"
+    ]
+  },
+  {
+    "path": "assets/logos/spotclap-favicon-32.png",
+    "bytes": 698,
+    "parts": [
+      "assets/logos/spotclap-favicon-32.png.b64"
+    ]
+  },
+  {
+    "path": "assets/logos/spotclap-icon.png",
+    "bytes": 2564,
+    "parts": [
+      "assets/logos/spotclap-icon.png.b64"
+    ]
+  },
+  {
+    "path": "assets/fonts/Outfit-Variable.ttf",
+    "bytes": 110572,
+    "parts": [
+      "assets/fonts/Outfit-Variable.ttf.b64"
+    ]
+  },
+  {
+    "path": "assets/og-image.jpg",
+    "bytes": 83185,
+    "parts": [
+      "assets/og-image.jpg.b64"
+    ]
+  },
+  {
+    "path": "assets/portfolio/glowkissed-titre-fr.jpg",
+    "bytes": 48470,
+    "parts": [
+      "assets/portfolio/glowkissed-titre-fr.jpg.b64"
+    ]
+  },
+  {
+    "path": "assets/portfolio/glowkissed-trousse.jpg",
+    "bytes": 128154,
+    "parts": [
+      "assets/portfolio/glowkissed-trousse.jpg.b64"
+    ]
+  },
+  {
+    "path": "assets/portfolio/glowkissed-poster-en.jpg",
+    "bytes": 136097,
+    "parts": [
+      "assets/portfolio/glowkissed-poster-en.jpg.b64"
+    ]
+  },
+  {
+    "path": "assets/portfolio/glowkissed-fin-fr.jpg",
+    "bytes": 137868,
+    "parts": [
+      "assets/portfolio/glowkissed-fin-fr.jpg.b64"
+    ]
+  },
+  {
+    "path": "assets/portfolio/glowkissed-poster-fr.jpg",
+    "bytes": 248493,
+    "parts": [
+      "assets/portfolio/glowkissed-poster-fr.jpg.b64"
+    ]
+  },
+  {
+    "path": "assets/portfolio/glowkissed-chouchous.jpg",
+    "bytes": 259683,
+    "parts": [
+      "assets/portfolio/glowkissed-chouchous.jpg.b64"
+    ]
+  },
+  {
+    "path": "assets/video/glowkissed-ouverture-22s-fr.mp4",
+    "bytes": 4936151,
+    "parts": [
+      "assets/video/glowkissed-ouverture-22s-fr.mp4.b64.000",
+      "assets/video/glowkissed-ouverture-22s-fr.mp4.b64.001",
+      "assets/video/glowkissed-ouverture-22s-fr.mp4.b64.002",
+      "assets/video/glowkissed-ouverture-22s-fr.mp4.b64.003",
+      "assets/video/glowkissed-ouverture-22s-fr.mp4.b64.004",
+      "assets/video/glowkissed-ouverture-22s-fr.mp4.b64.005",
+      "assets/video/glowkissed-ouverture-22s-fr.mp4.b64.006",
+      "assets/video/glowkissed-ouverture-22s-fr.mp4.b64.007",
+      "assets/video/glowkissed-ouverture-22s-fr.mp4.b64.008",
+      "assets/video/glowkissed-ouverture-22s-fr.mp4.b64.009"
+    ]
+  },
+  {
+    "path": "assets/video/glowkissed-ouverture-22s-en.mp4",
+    "bytes": 4936396,
+    "parts": [
+      "assets/video/glowkissed-ouverture-22s-en.mp4.b64.000",
+      "assets/video/glowkissed-ouverture-22s-en.mp4.b64.001",
+      "assets/video/glowkissed-ouverture-22s-en.mp4.b64.002",
+      "assets/video/glowkissed-ouverture-22s-en.mp4.b64.003",
+      "assets/video/glowkissed-ouverture-22s-en.mp4.b64.004",
+      "assets/video/glowkissed-ouverture-22s-en.mp4.b64.005",
+      "assets/video/glowkissed-ouverture-22s-en.mp4.b64.006",
+      "assets/video/glowkissed-ouverture-22s-en.mp4.b64.007",
+      "assets/video/glowkissed-ouverture-22s-en.mp4.b64.008",
+      "assets/video/glowkissed-ouverture-22s-en.mp4.b64.009"
+    ]
+  }
+]
